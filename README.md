@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="assets/images/person.jpg" alt="person" width="150" height="150">
+    <img src="assets/images/person.png" alt="person" width="350" height="350">
   </a>
 
   <h3 align="center">Jalal Jaleh</h3>
