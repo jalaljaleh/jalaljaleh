@@ -36,34 +36,6 @@
 
 
 
-### 📦 NuGet Packages
-| Package | Downloads | Frameworks | Description |
-|----------|------------|-------------|--------------|
-| [**Dynastio.Net**](https://www.nuget.org/packages/Dynastio.Net) | ![Downloads](https://img.shields.io/nuget/dt/Dynastio.Net?color=303030&style=flat-square) | .NET 5+ / 4.6+ | Modern, high-performance **Dynast.io** API client |
-| [**Dynastio.Api**](https://www.nuget.org/packages/Dynastio.Api) *(deprecated)* | ![Downloads](https://img.shields.io/nuget/dt/Dynastio.Api?color=303030&style=flat-square) | .NET 5 / 4.6.1 | Legacy API client for Dynast.io |
-| [**Nobitex.Net**](https://www.nuget.org/packages/Nobitex.Net) | ![Downloads](https://img.shields.io/nuget/dt/Nobitex.Net?color=303030&style=flat-square) | .NET 9+ | Lightweight Nobitex crypto exchange client (DI + rate limit) |
-
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jalaljaleh&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Jalal's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalaljaleh&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalaljaleh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-
-
-## ☕ Support
-If you like my work or use my libraries, consider supporting further development:
-
-**BTC (SegWit):**  
-`bc1q7uqx2p6cchzyk4k0s99pt2nk89twnk8e6dcp2j`  
-
-
-**USDT (BEP20):**  
-`0x4681e0b0197a46af59eae7650d5960f3277076ac`
-
-<sub>Tip a small amount first to confirm network before large transfers.</sub>
 
 
 <div align="center">
