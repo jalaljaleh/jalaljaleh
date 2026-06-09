@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   
-# Mohammad Jalal Jaleh
+# Mohammad Jalal Jaleh | محمد جلال ژاله
 
 ### .NET Developer • NuGet Author • API & Bot Engineer
 
